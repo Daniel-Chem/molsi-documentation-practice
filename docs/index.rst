@@ -16,6 +16,7 @@ currently supported.
    getting_started
    api
    about
+   test1
 
 Indices and tables
 ==================
